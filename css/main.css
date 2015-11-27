@@ -1,0 +1,124 @@
+  li
+{
+	display: inline-block;
+	padding: 5px 10px;
+}
+.linea 
+{
+    border-right:  2px solid black;
+}
+a 
+{
+	color: black;
+}
+.articulo
+{
+	padding-left: 0px;
+}
+.tex-gris
+{
+	color:grey;
+}
+.fon-letra 
+{
+	background-color: grey;
+	display: inline-block;
+    color:White;
+    padding: 8px;
+   
+}
+.raya
+{
+	border-bottom: 1px solid grey;
+}
+ .fondo
+ {
+ 	color:White;
+ 	background-color: black;
+ 	display: inline-block;
+ 	padding: 0px 25px 0px 25px;
+ } 
+ .img 
+ {
+ 	width: 100%;
+ 	height: 250px;
+ 	background-color: #848484;
+ }
+ .foto 
+ {
+ 	padding: center;
+ 	display: inline-block;
+ 	margin-left: 250px;
+ 	margin-top: 100px;
+ }
+ .color
+ {
+ 	background-color: #D8D8D8;
+ 	padding: 0px 15px 0px 15px;
+ }
+ .video
+ {
+ 	height: 250px;
+ }
+ .video2
+ {
+    height: 30px;
+ }
+ .video,.video2
+ {
+    background-color: whith;
+ 	border: 1px solid black;
+ 	width: 100%;
+ }
+.AGENDA
+{
+	background-color: grey;
+	display: inline-block;
+    color:White;
+    padding:0px 70px  0px 10px;
+}
+.list-agenda li{
+  margin-bottom: 12px;
+}
+.list-agenda li>span{
+    background: lightgray;
+    font-size: 22px;
+    display: inline-block;
+    padding: 10px 15px;
+    color: black;
+    margin-right: 30px;
+}
+.list-agenda li>p{
+  display: inline-block;
+  font-size: 13px;
+  margin-bottom: 0;
+  width: 60%;
+}
+.list-agenda p>span{
+  padding-top: 10px;
+}
+.list-agenda p>strong, .sect-more p>strong{
+  font-size: 14px;
+  color: black;
+}
+.col-sm-4-3
+{
+	border-bottom: 1px solid grey;
+}
+.fechas
+{
+	color: grey;
+}
+.color-me
+{
+	padding: 5px;
+	background-color: #D8D8D8;
+	padding-left: 15px;
+
+}
+.col-sm-11
+{
+	border: 4px solid grey;
+	margin-left: 60px;
+
+}
